@@ -14,16 +14,16 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"go-config": "1.18.0",
-			"device-register": "1.5.2",
-			"event-reporter": "3.7.0",
-			"management-interface": "1.28.0-tc2",
-			"modemd": "1.9.1-tc2",
-			"rpi-net-manager": "0.5.3",
-			"salt-updater": "0.8.2",
-			"tc2-agent": "0.2.8",
-			"tc2-hat-controller": "0.10.1",
-			"thermal-uploader": "2.6.1"
+			"go-config": "1.20.4",
+			"device-register": "1.5.4",
+			"event-reporter": "3.8.1",
+			"management-interface": "1.31.1-tc2",
+			"modemd": "1.10.1-tc2",
+			"rpi-net-manager": "0.5.4",
+			"salt-updater": "0.8.5",
+			"tc2-agent": "0.3.14",
+			"tc2-hat-controller": "0.11.1",
+			"thermal-uploader": "2.6.3"
 		}
 	},
 	"test": {
@@ -80,5 +80,5 @@
 			"thermal-uploader": "2.6.3"
 		}
 	},
-	"updated": "2024-09-10T02:30:43.612Z"
+	"updated": "2024-09-11T03:47:25.519Z"
 }
