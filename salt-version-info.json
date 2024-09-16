@@ -68,7 +68,7 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"go-config": "1.20.8",
+			"go-config": "1.20.9",
 			"device-register": "1.5.4",
 			"event-reporter": "3.8.1",
 			"management-interface": "1.32.4-tc2",
@@ -80,5 +80,5 @@
 			"thermal-uploader": "2.6.3"
 		}
 	},
-	"updated": "2024-09-11T03:47:25.519Z"
+	"updated": "2024-09-16T03:55:35.939Z"
 }
