@@ -71,14 +71,14 @@
 			"go-config": "1.20.9",
 			"device-register": "1.5.4",
 			"event-reporter": "3.8.1",
-			"management-interface": "1.32.4-tc2",
+			"management-interface": "1.33.0-tc2",
 			"modemd": "1.10.1-tc2",
-			"rpi-net-manager": "0.5.4",
+			"rpi-net-manager": "0.5.5",
 			"salt-updater": "0.8.5",
 			"tc2-agent": "0.3.14",
-			"tc2-hat-controller": "0.11.1",
+			"tc2-hat-controller": "0.13.0",
 			"thermal-uploader": "2.6.3"
 		}
 	},
-	"updated": "2024-09-17T00:01:11.807Z"
+	"updated": "2024-09-25T03:25:45.236Z"
 }
