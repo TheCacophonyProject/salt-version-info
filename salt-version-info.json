@@ -30,7 +30,7 @@
 	},
 	"test": {
 		"pi": {
-			"commitDate": "2024-10-21T20:12:28Z",
+			"commitDate": "2024-12-09T01:47:12Z",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"go-config": "1.8.1",
@@ -44,16 +44,16 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2024-10-21T20:12:28Z",
+			"commitDate": "2024-12-09T01:47:12Z",
 			"go-config": "1.23.1",
 			"device-register": "1.6.1",
 			"event-reporter": "3.8.1",
 			"management-interface": "1.34.0-tc2",
-			"modemd": "1.11.0-tc2",
+			"modemd": "1.12.0-tc2",
 			"rpi-net-manager": "0.5.5",
 			"salt-updater": "0.8.5",
-			"tc2-agent": "0.4.0",
-			"tc2-hat-controller": "0.13.1",
+			"tc2-agent": "0.4.4",
+			"tc2-hat-controller": "0.13.4",
 			"thermal-uploader": "2.7.1"
 		}
 	},
@@ -86,5 +86,5 @@
 			"thermal-uploader": "2.7.1"
 		}
 	},
-	"updated": "2024-12-09T01:32:07.353Z"
+	"updated": "2024-12-09T01:47:42.973Z"
 }
