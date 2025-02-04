@@ -81,10 +81,10 @@
 			"modemd": "1.12.0-tc2",
 			"rpi-net-manager": "0.5.5",
 			"salt-updater": "0.8.5",
-			"tc2-agent": "0.5.2",
+			"tc2-agent": "0.5.3",
 			"tc2-hat-controller": "0.13.5",
 			"thermal-uploader": "2.7.1"
 		}
 	},
-	"updated": "2025-02-04T01:22:41.510Z"
+	"updated": "2025-02-04T01:22:54.790Z"
 }
