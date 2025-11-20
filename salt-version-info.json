@@ -25,6 +25,7 @@
 			"salt-updater": "0.8.5",
 			"tc2-agent": "0.5.30",
 			"tc2-hat-controller": "0.20.7",
+			"classifier-pipeline": "0.0.29",
 			"thermal-uploader": "2.8.1"
 		}
 	},
@@ -54,12 +55,13 @@
 			"salt-updater": "0.8.5",
 			"tc2-agent": "0.6.3",
 			"tc2-hat-controller": "0.23.1",
+			"classifier-pipeline": "0.0.38",
 			"thermal-uploader": "2.9.0"
 		}
 	},
 	"dev": {
 		"pi": {
-			"commitDate": "2025-11-20T04:11:42Z",
+			"commitDate": "2025-11-20T21:11:49Z",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"go-config": "1.8.1",
@@ -73,7 +75,7 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2025-11-20T04:11:42Z",
+			"commitDate": "2025-11-20T21:11:49Z",
 			"go-config": "1.28.4",
 			"device-register": "1.7.1",
 			"event-reporter": "3.12.2",
@@ -83,8 +85,9 @@
 			"salt-updater": "0.8.5",
 			"tc2-agent": "0.6.3",
 			"tc2-hat-controller": "0.23.1",
+			"classifier-pipeline": "0.0.38",
 			"thermal-uploader": "2.9.0"
 		}
 	},
-	"updated": "2025-11-20T20:31:46.466Z"
+	"updated": "2025-11-20T21:12:07.435Z"
 }
