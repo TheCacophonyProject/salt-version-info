@@ -1,7 +1,7 @@
 {
 	"prod": {
 		"pi": {
-			"commitDate": "2026-03-02T23:42:53Z",
+			"commitDate": "",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"cacophony-config": "1.8.1",
@@ -15,7 +15,7 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2026-03-02T23:42:53Z",
+			"commitDate": "",
 			"cacophony-config": "1.28.4",
 			"device-register": "1.7.1",
 			"event-reporter": "3.12.2",
@@ -31,7 +31,7 @@
 	},
 	"test": {
 		"pi": {
-			"commitDate": "2026-02-18T00:30:04Z",
+			"commitDate": "",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"cacophony-config": "1.8.1",
@@ -45,7 +45,7 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2026-02-18T00:30:04Z",
+			"commitDate": "",
 			"cacophony-config": "1.28.4",
 			"device-register": "1.7.1",
 			"event-reporter": "3.12.2",
@@ -61,7 +61,7 @@
 	},
 	"dev": {
 		"pi": {
-			"commitDate": "2026-04-28T21:54:28Z",
+			"commitDate": "",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"cacophony-config": "1.8.1",
@@ -75,7 +75,7 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2026-04-28T21:54:28Z",
+			"commitDate": "",
 			"cacophony-config": "1.28.4",
 			"device-register": "1.7.1",
 			"event-reporter": "3.12.2",
@@ -83,11 +83,11 @@
 			"modemd": "1.16.0",
 			"rpi-net-manager": "0.6.2",
 			"salt-updater": "0.9.0",
-			"tc2-agent": "0.8.6",
+			"tc2-agent": "0.8.8",
 			"tc2-hat-controller": "0.28.0",
 			"classifier-pipeline": "0.0.48",
 			"thermal-uploader": "2.9.0"
 		}
 	},
-	"updated": "2026-04-28T21:54:42.475Z"
+	"updated": "2026-05-04T20:55:14.771Z"
 }
