@@ -31,12 +31,12 @@
 	},
 	"test": {
 		"pi": {
-			"commitDate": "2026-02-18T00:30:04Z",
+			"commitDate": "2026-06-09T00:28:28Z",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"cacophony-config": "1.8.1",
 			"device-register": "1.4.1",
-			"event-reporter": "3.6.0",
+			"event-reporter": "3.13.0",
 			"management-interface": "1.24.4",
 			"modemd": "1.5.1",
 			"rtc-utils": "1.3.0",
@@ -45,18 +45,18 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2026-02-18T00:30:04Z",
+			"commitDate": "2026-06-09T00:28:28Z",
 			"cacophony-config": "1.28.4",
 			"device-register": "1.7.1",
 			"event-reporter": "3.12.2",
-			"management-interface": "1.45.1",
+			"management-interface": "1.47.2",
 			"modemd": "1.16.0",
 			"rpi-net-manager": "0.6.2",
 			"salt-updater": "0.9.0",
-			"tc2-agent": "0.7.3",
-			"tc2-hat-controller": "0.28.0",
-			"classifier-pipeline": "0.0.48",
-			"thermal-uploader": "2.9.0"
+			"tc2-agent": "0.9.0",
+			"tc2-hat-controller": "0.31.0",
+			"classifier-pipeline": "0.0.51",
+			"thermal-uploader": "2.10.0"
 		}
 	},
 	"dev": {
@@ -89,5 +89,5 @@
 			"thermal-uploader": "2.10.0"
 		}
 	},
-	"updated": "2026-06-08T08:58:43.694Z"
+	"updated": "2026-06-09T00:28:45.339Z"
 }
