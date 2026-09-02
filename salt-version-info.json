@@ -55,7 +55,7 @@
 			"salt-updater": "0.10.1",
 			"tc2-agent": "0.9.1",
 			"tc2-hat-controller": "0.33.1",
-			"classifier-pipeline": "0.0.57",
+			"classifier-pipeline": "0.0.59",
 			"thermal-uploader": "2.10.0"
 		}
 	},
@@ -89,5 +89,5 @@
 			"thermal-uploader": "2.10.0"
 		}
 	},
-	"updated": "2026-09-02T05:33:22.253Z"
+	"updated": "2026-09-02T05:33:37.789Z"
 }
