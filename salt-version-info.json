@@ -31,7 +31,7 @@
 	},
 	"test": {
 		"pi": {
-			"commitDate": "2026-11-02T21:33:06Z",
+			"commitDate": "2026-11-04T21:27:28Z",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"cacophony-config": "1.8.1",
@@ -45,17 +45,17 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2026-11-02T21:33:06Z",
+			"commitDate": "2026-11-04T21:27:28Z",
 			"cacophony-config": "1.36.0",
 			"device-register": "1.7.1",
 			"event-reporter": "3.12.2",
-			"management-interface": "1.51.5",
+			"management-interface": "1.51.8",
 			"modemd": "1.17.0",
 			"rpi-net-manager": "0.8.0",
 			"salt-updater": "0.10.1",
-			"tc2-agent": "0.10.2",
-			"tc2-hat-controller": "0.36.0",
-			"classifier-pipeline": "0.0.71",
+			"tc2-agent": "0.12.0",
+			"tc2-hat-controller": "0.36.1",
+			"classifier-pipeline": "0.0.72",
 			"thermal-uploader": "2.11.1"
 		}
 	},
@@ -89,5 +89,5 @@
 			"thermal-uploader": "2.11.1"
 		}
 	},
-	"updated": "2026-11-02T21:33:23.407Z"
+	"updated": "2026-11-04T21:27:44.986Z"
 }
