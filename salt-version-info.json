@@ -61,7 +61,7 @@
 	},
 	"dev": {
 		"pi": {
-			"commitDate": "2026-11-06T02:16:23Z",
+			"commitDate": "2026-11-06T02:20:26Z",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"cacophony-config": "1.8.1",
@@ -75,10 +75,11 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2026-11-06T02:16:23Z",
+			"commitDate": "2026-11-06T02:20:26Z",
 			"cacophony-config": "1.36.0",
 			"device-register": "1.7.1",
 			"event-reporter": "3.14.0",
+			"management-interface": "1.51.8",
 			"modemd": "1.18.1",
 			"rpi-net-manager": "0.8.0",
 			"salt-updater": "0.10.1",
@@ -88,5 +89,5 @@
 			"thermal-uploader": "2.12.0"
 		}
 	},
-	"updated": "2026-11-06T02:16:56.942Z"
+	"updated": "2026-11-06T02:20:51.411Z"
 }
