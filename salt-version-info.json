@@ -31,7 +31,7 @@
 	},
 	"test": {
 		"pi": {
-			"commitDate": "2026-11-08T22:54:24Z",
+			"commitDate": "2026-11-11T02:04:27Z",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"cacophony-config": "1.8.1",
@@ -45,7 +45,7 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2026-11-08T22:54:24Z",
+			"commitDate": "2026-11-11T02:04:27Z",
 			"cacophony-config": "1.36.0",
 			"device-register": "1.7.1",
 			"event-reporter": "3.14.0",
@@ -55,7 +55,7 @@
 			"salt-updater": "0.10.1",
 			"tc2-agent": "0.12.1",
 			"tc2-hat-controller": "0.36.1",
-			"classifier-pipeline": "0.0.74",
+			"classifier-pipeline": "0.0.75",
 			"thermal-uploader": "2.12.0"
 		}
 	},
@@ -89,5 +89,5 @@
 			"thermal-uploader": "2.12.0"
 		}
 	},
-	"updated": "2026-11-08T22:57:25.489Z"
+	"updated": "2026-11-11T02:05:11.389Z"
 }
