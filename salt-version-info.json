@@ -1,7 +1,7 @@
 {
 	"prod": {
 		"pi": {
-			"commitDate": "2026-10-28T02:03:58Z",
+			"commitDate": "",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"cacophony-config": "1.8.1",
@@ -15,7 +15,7 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2026-10-28T02:03:58Z",
+			"commitDate": "",
 			"cacophony-config": "1.34.2",
 			"device-register": "1.7.1",
 			"event-reporter": "3.12.2",
@@ -31,7 +31,7 @@
 	},
 	"test": {
 		"pi": {
-			"commitDate": "2026-11-16T02:03:34Z",
+			"commitDate": "",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"cacophony-config": "1.8.1",
@@ -45,7 +45,7 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2026-11-16T02:03:34Z",
+			"commitDate": "",
 			"cacophony-config": "1.36.0",
 			"device-register": "1.7.1",
 			"event-reporter": "3.14.0",
@@ -61,7 +61,7 @@
 	},
 	"dev": {
 		"pi": {
-			"commitDate": "2026-11-08T22:57:08Z",
+			"commitDate": "",
 			"attiny-controller": "3.10.1",
 			"audiobait": "3.0.1",
 			"cacophony-config": "1.8.1",
@@ -75,7 +75,7 @@
 			"thermal-uploader": "2.3.0"
 		},
 		"tc2": {
-			"commitDate": "2026-11-08T22:57:08Z",
+			"commitDate": "",
 			"cacophony-config": "1.36.0",
 			"device-register": "1.7.1",
 			"event-reporter": "3.14.0",
@@ -89,5 +89,5 @@
 			"thermal-uploader": "2.12.0"
 		}
 	},
-	"updated": "2026-11-16T02:03:55.652Z"
+	"updated": "2026-11-16T02:28:07.220Z"
 }
